@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learnweb/learnweb.iml" filepath="$PROJECT_DIR$/learnweb/learnweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seproject/seproject.iml" filepath="$PROJECT_DIR$/seproject/seproject.iml" />
+    </modules>
+  </component>
+</project>
